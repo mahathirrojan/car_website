@@ -189,3 +189,7 @@ nav a:hover {
     opacity: 1;
     background-color: transparent;
 }
+
+.cartable {
+    font-family: cursive
+}
