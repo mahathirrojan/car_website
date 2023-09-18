@@ -8,4 +8,5 @@ const menu = document.querySelector('nav ul.menu');
 menuBtn.addEventListener('click', () => {
     // Toggle the 'active' class on the navigation menu
     menu.classList.toggle('active');
+    alert('Menu button clicked!');
 });
