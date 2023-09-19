@@ -130,3 +130,13 @@ h5 {
     text-shadow: 0 0 15px #000;
     font-size: 8px;
 }
+
+.table {
+    height: 100vh;
+    background-color: #000;
+    font-family: cursive;
+}
+
+.table h1 {
+    font-size: medium;
+}
